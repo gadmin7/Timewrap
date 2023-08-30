@@ -2,7 +2,7 @@
 
 ![Project Banner](https://github.com/gadmin7/Timewrap/blob/main/Figure_1.png)
 
-Explore the fascinating journey of data management and storage technologies in the field of computer science! "Time Travel Through Data Evolution" compresses decades of key events into a single day, showcasing the evolution of databases and storage systems from magnetic tape to modern NoSQL databases.
+**"Timewrap - Time Travel Through Data Evolution"** compresses decades of key events into a single day, showcasing the evolution of databases and storage systems from magnetic tape to modern NoSQL databases.
 
 ## Overview
 
