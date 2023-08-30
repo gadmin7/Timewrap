@@ -6,11 +6,9 @@ Explore the fascinating journey of data management and storage technologies in t
 
 ## Overview
 
-Have you ever wondered how far we've come in the world of data management? This interactive Python project compresses the historical timeline of significant database and storage innovations into a single "day." With the help of this project, you can:
-
-- Visualize major milestones in data evolution on a compressed timeline.
+- Visualize major milestones in an evolution on a compressed timeline.
 - Understand the time gaps between each breakthrough.
-- Gain insights into the rapid pace of technological advancements.
+- Gain insights into the pace of advancements.
 
 ## How It Works
 
