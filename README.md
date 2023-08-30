@@ -31,10 +31,10 @@ This project utilizes Python and data visualization libraries to:
 
 ## Credits and Inspiration
 
-This project was inspired by the [YouTube Video Title](link-to-the-youtube-video) created by [Creator's Name or Username]. The video explores the evolution of data management and storage technologies, inspiring the creation of "Time Travel Through Data Evolution."
+This project was inspired by the [The Evolution of Life on Earth](https://youtu.be/H2_6cqa2cP4?si=paZfEtageVDBDxcJ) created by [AsapSCIENCE]. 
 
-I would like to express my gratitude to [Creator's Name] for their insightful video that sparked the idea behind this project.
+I would like to express my gratitude to [AsapSCIENCE] for putting out this amazing video!
 
-This project was brought to life with the help of ChatGPT
+This project was brought to life with the help of ChatGPT.
 
 ---
